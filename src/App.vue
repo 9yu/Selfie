@@ -17,7 +17,7 @@
   				<span>{{ $t("message.sankou") }}<a href="https://otakism.com/" target="_ost">宅談</a></span>，
   				<span><a @click="setLanguage('zh')">中文</a>
   					<a @click="setLanguage('ja')">日本語</a></span>
-  				<span>© 2018 ゆきの</span>
+  				<span style="display: inline-block;">© 2018 ゆきの</span>
   			</footer>
   		</div>
   	</div>
