@@ -53,10 +53,14 @@ body {
 article {
 	padding: 1rem;
 }
+h1 {
+	line-height: 1em;
+}
 #left {
 	-ms-flex-preferred-size: 4%;
 	flex-basis: 4%;
 	max-width: 4%;
+	min-width: 40px;
 }
 #section {
 	margin-top: 10rem;
